@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShareImagetoOtherApp</string>
+    <string name="title_activity_image">ImageActivity</string>
+</resources>
